@@ -42,6 +42,7 @@
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
+  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : false,
@@ -59,14 +60,6 @@
       "lastUpdateTs" : 1754386880752,
       "longValue" : 1754386880752,
       "strValue" : null
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "sw_id",
-      "lastUpdateTs" : 1754387358007,
-      "longValue" : null,
-      "strValue" : "b82c4f50-71e0-11f0-882b-837cfd9488a2"
     } ],
     "SHARED_SCOPE" : [ ]
   },

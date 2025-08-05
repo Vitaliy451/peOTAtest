@@ -10,11 +10,11 @@
     "defaultQueueName" : "HighPriority",
     "defaultRuleChainId" : null,
     "description" : "",
-    "externalId" : null,
-    "firmwareId" : {
-      "entityType" : "OTA_PACKAGE",
-      "id" : "2d3befe0-71fe-11f0-882b-837cfd9488a2"
+    "externalId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "cd136d90-7145-11f0-ba77-abb3c210cae5"
     },
+    "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE_PROFILE",
       "id" : "cd136d90-7145-11f0-ba77-abb3c210cae5"

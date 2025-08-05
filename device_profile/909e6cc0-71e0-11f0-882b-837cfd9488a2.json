@@ -7,7 +7,10 @@
     "defaultQueueName" : null,
     "defaultRuleChainId" : null,
     "description" : "",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "909e6cc0-71e0-11f0-882b-837cfd9488a2"
+    },
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE_PROFILE",
@@ -30,10 +33,7 @@
     },
     "provisionDeviceKey" : null,
     "provisionType" : "DISABLED",
-    "softwareId" : {
-      "entityType" : "OTA_PACKAGE",
-      "id" : "b82c4f50-71e0-11f0-882b-837cfd9488a2"
-    },
+    "softwareId" : null,
     "transportType" : "DEFAULT",
     "type" : "DEFAULT"
   },
