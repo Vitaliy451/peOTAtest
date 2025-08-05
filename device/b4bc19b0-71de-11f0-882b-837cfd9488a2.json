@@ -22,11 +22,11 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "cd136d90-7145-11f0-ba77-abb3c210cae5"
     },
-    "externalId" : null,
-    "firmwareId" : {
-      "entityType" : "OTA_PACKAGE",
-      "id" : "471d3030-7146-11f0-ba77-abb3c210cae5"
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "b4bc19b0-71de-11f0-882b-837cfd9488a2"
     },
+    "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
       "id" : "b4bc19b0-71de-11f0-882b-837cfd9488a2"
@@ -42,7 +42,6 @@
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
-  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : false,
@@ -56,68 +55,12 @@
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
-      "key" : "fw_id",
-      "lastUpdateTs" : 1754387332872,
-      "longValue" : null,
-      "strValue" : "471d3030-7146-11f0-ba77-abb3c210cae5"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
       "key" : "inactivityAlarmTime",
       "lastUpdateTs" : 1754386820751,
       "longValue" : 1754386820751,
       "strValue" : null
     } ],
-    "SHARED_SCOPE" : [ {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_checksum",
-      "lastUpdateTs" : 1754387332872,
-      "longValue" : null,
-      "strValue" : "f5893f393da35d1a1ccb6be5362d4dcd1d0ca232587f2ce20ba09d2ad614804d"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_checksum_algorithm",
-      "lastUpdateTs" : 1754387332872,
-      "longValue" : null,
-      "strValue" : "SHA256"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_size",
-      "lastUpdateTs" : 1754387332872,
-      "longValue" : 2421,
-      "strValue" : null
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_tag",
-      "lastUpdateTs" : 1754387332872,
-      "longValue" : null,
-      "strValue" : "OTAtest v1.1"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_title",
-      "lastUpdateTs" : 1754387332872,
-      "longValue" : null,
-      "strValue" : "OTAtest"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "fw_version",
-      "lastUpdateTs" : 1754387332872,
-      "longValue" : null,
-      "strValue" : "v1.1"
-    } ]
+    "SHARED_SCOPE" : [ ]
   },
   "calculatedFields" : [ ]
 }
