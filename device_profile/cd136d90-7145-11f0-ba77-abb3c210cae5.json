@@ -1,0 +1,48 @@
+{
+  "entityType" : "DEVICE_PROFILE",
+  "entity" : {
+    "default" : false,
+    "defaultDashboardId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "5507a0b0-15e6-11f0-9be7-3da24f18ba46"
+    },
+    "defaultEdgeRuleChainId" : null,
+    "defaultQueueName" : "HighPriority",
+    "defaultRuleChainId" : null,
+    "description" : "",
+    "externalId" : null,
+    "firmwareId" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "471d3030-7146-11f0-ba77-abb3c210cae5"
+    },
+    "id" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "cd136d90-7145-11f0-ba77-abb3c210cae5"
+    },
+    "image" : "tb-image;/api/images/tenant/gamepad-controller_(1).svg",
+    "name" : "OTA version test",
+    "profileData" : {
+      "alarms" : null,
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "provisionConfiguration" : {
+        "type" : "DISABLED",
+        "provisionDeviceSecret" : null
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "provisionDeviceKey" : null,
+    "provisionType" : "DISABLED",
+    "softwareId" : null,
+    "transportType" : "DEFAULT",
+    "type" : "DEFAULT"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ ]
+}
