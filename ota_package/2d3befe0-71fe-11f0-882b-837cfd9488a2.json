@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "checksum" : "ef0f04d4085bbfd9bbcfd3208567b19698a24890e080393ac9149b060ecb375d",
+    "checksumAlgorithm" : "SHA256",
+    "contentType" : "application/json",
+    "data" : "ewogICJ0eXBlIjogIlNDUklQVCIsCiAgIm5hbWUiOiAidGVzdCIsCiAgImRlYnVnU2V0dGluZ3MiOiB7CiAgICAiZmFpbHVyZXNFbmFibGVkIjogdHJ1ZSwKICAgICJhbGxFbmFibGVkIjogZmFsc2UsCiAgICAiYWxsRW5hYmxlZFVudGlsIjogMTc1Mzk3NDQ0NjYzOAogIH0sCiAgImNvbmZpZ3VyYXRpb25WZXJzaW9uIjogMCwKICAiY29uZmlndXJhdGlvbiI6IHsKICAgICJ0eXBlIjogIlNDUklQVCIsCiAgICAiYXJndW1lbnRzIjogewogICAgICAiYXR0IjogewogICAgICAgICJyZWZFbnRpdHlLZXkiOiB7CiAgICAgICAgICAia2V5IjogIjciLAogICAgICAgICAgInR5cGUiOiAiQVRUUklCVVRFIiwKICAgICAgICAgICJzY29wZSI6ICJTRVJWRVJfU0NPUEUiCiAgICAgICAgfSwKICAgICAgICAiZGVmYXVsdFZhbHVlIjogIiIKICAgICAgfSwKICAgICAgInN0ciI6IHsKICAgICAgICAicmVmRW50aXR5S2V5IjogewogICAgICAgICAgImtleSI6ICIxNCIsCiAgICAgICAgICAidHlwZSI6ICJUU19MQVRFU1QiCiAgICAgICAgfSwKICAgICAgICAiZGVmYXVsdFZhbHVlIjogIiIKICAgICAgfSwKICAgICAgInRtcCI6IHsKICAgICAgICAicmVmRW50aXR5S2V5IjogewogICAgICAgICAgImtleSI6ICJyYXdEYXRhIiwKICAgICAgICAgICJ0eXBlIjogIlRTX0xBVEVTVCIKICAgICAgICB9LAogICAgICAgICJkZWZhdWx0VmFsdWUiOiAiW3tcInRlc3RfMVwiOjQ1NixcImJcIjoxNX0se1widGVzdF8yXCI6NTV9XSIKICAgICAgfQogICAgfSwKICAgICJleHByZXNzaW9uIjogIi8vIFNhbXBsZSBzY3JpcHQgdG8gY29udmVydCB0ZW1wZXJhdHVyZSByZWFkaW5ncyBmcm9tIEZhaHJlbmhlaXQgdG8gQ2Vsc2l1c1xudmFyIHJlc3VsdCA9IHRtcFswXS5iO1xucmV0dXJue1xuICAgIFwicmVzdWx0XCI6IHJlc3VsdCAqIDIgKyBhdHQgKyBzdHJcbn07IiwKICAgICJvdXRwdXQiOiB7CiAgICAgICJuYW1lIjogIiIsCiAgICAgICJ0eXBlIjogIlRJTUVfU0VSSUVTIgogICAgfQogIH0KfQ==",
+    "dataSize" : 1006,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "cd136d90-7145-11f0-ba77-abb3c210cae5"
+    },
+    "externalId" : null,
+    "fileName" : "test (1).json",
+    "hasData" : true,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "2d3befe0-71fe-11f0-882b-837cfd9488a2"
+    },
+    "name" : "TEST",
+    "tag" : "TEST 1.2",
+    "title" : "TEST",
+    "type" : "FIRMWARE",
+    "url" : null,
+    "version" : "1.2"
+  }
+}
